@@ -15,7 +15,7 @@
 ## 项目结构
 
 ## 配置项目
-以`isaac_lab_tutorial`为例，项目结构可以分为：
+以 `isaac_lab_tutorial` 为例，项目结构可以分为：
 
 类和配置:`source/isaac_lab_tutorial/isaac_lab_tutorial/tasks/direct/isaac_lab_tutorial`中查找`isaac_lab_tutorial_env_cfg.py `文件
 
