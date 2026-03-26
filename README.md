@@ -1,4 +1,4 @@
-# Learning for Isaaclab
+# Learning for Isaaclab (direct)
 **目录 (Table of Contents)**
 
 [TOC]
